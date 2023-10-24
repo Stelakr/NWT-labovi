@@ -1,0 +1,18 @@
+.App{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.Header{
+    display: flex;
+    justify-content: center;
+    margin: 15px 15px;
+    background-color: rgb(0,0,0);
+    padding: 10px;
+    color: white;
+    font-size: xx-large;
+}
+
+.Header>div{
+    padding: 25px 20px;
+}
